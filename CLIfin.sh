@@ -1,3 +1,4 @@
+#!/bin/bash
 #makes and points variables to the correct folder
 mkdir -p ~/.config/CLIfin
 touch ~/.config/CLIfin/apikey
